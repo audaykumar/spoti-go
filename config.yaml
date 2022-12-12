@@ -1,0 +1,7 @@
+client_id: "9e612de79175451b8aeb0de72698f782"
+client_secret: "a6ef573fb2a742a39322b544080fb782"
+redirect_uri: "http://localhost:8888/callback"
+scopes:
+  - "user-library-read"
+  - "playlist-read-private"
+  - "user-read-private"
